@@ -1,0 +1,2 @@
+# myltysFirstJsLerning
+I learning JS
